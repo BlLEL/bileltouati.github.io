@@ -7,11 +7,11 @@
 | ----- | ----- | ----- | ----- | ----- | ----- |
 
 - **NetBeans** : Environnement de développement intégré (IDE) utilisé pour ce projet
-- **HTML** : awesome web-based text editor
-- **CSS** : Markdown parser done right. Fast and easy to extend.
-- **Bootstrap** : great UI boilerplate for modern web apps
-- **Git** : evented I/O for the backend
-- **GitHub** : fast node.js network app framework [@tjholowaychuk]
+- **HTML** : Langage de description utilisé pour concevoir les pages web
+- **CSS** : Langage de style utilisé pour mettre en forme les pages web
+- **Bootstrap** : Framework graphique utilisé pour faciliter la création de pages web (utilisation d'une base de règles CSS existantes)
+- **Git** : Logiciel de gestion de version
+- **GitHub** : Forge logicielle en ligne utilisant Git
 
 #### 2. Pour l'épreuve E4
 
