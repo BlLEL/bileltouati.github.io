@@ -3,7 +3,7 @@
 
 #### 1. Mettre en oeuvre les technologies web pour créer et héberger mon portfolio
 
-| ![Netbeans](https://i.imgur.com/fprEU6X.png) | ![HTML5](https://i.imgur.com/mKsWQ6L.png) | ![CSS3](https://i.imgur.com/Ss6cT1T.png) | ![Bootstrap](https://i.imgur.com/sLSaHkJ.png) | ![GIT](https://i.imgur.com/qhGWrF7.png) | ![github](https://i.imgur.com/EZ8wtGz.png)
+| ![Netbeans](https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/langfr-110px-Apache_NetBeans_Logo.svg.png) | ![HTML5](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/langfr-130px-HTML5_logo_and_wordmark.svg.png) | ![CSS3](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/langfr-130px-CSS3_logo_and_wordmark.svg.png) | ![Bootstrap](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/langfr-220px-Bootstrap_logo.svg.png) | ![GIT](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/langfr-220px-Git-logo.svg.png) | ![github](https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/220px-Octicons-mark-github.svg.png)
 | ----- | ----- | ----- | ----- | ----- | ----- |
 
 - **NetBeans** : Environnement de développement intégré (IDE) utilisé pour ce projet
