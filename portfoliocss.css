@@ -11,8 +11,20 @@ img {
     float : left;
 }
 
-.btn-secondary {
-    color: #fff;
-    background-color: royalblue;
-    border-color: royalblue;
+
+.btn-primary  {
+    margin-left: 10px;
+    
+}
+
+.jumbotron p {
+    max-width: 100em;
+    padding-left: 10.5em;
+}
+
+.jumbotron img {
+    float:left;
+    padding-left: 1em;
+    padding-bottom: 1em;
+    
 }
