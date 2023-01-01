@@ -1,0 +1,30 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/ClientSide/css.css to edit this template
+*/
+/* 
+    Created on : 9 déc. 2022, 11:18:15
+    Author     : bilel.touati
+*/
+
+img {
+    float : left;
+}
+
+
+.btn-primary  {
+    margin-left: 10px;
+    
+}
+
+.jumbotron p {
+    max-width: 100em;
+    padding-left: 10.5em;
+}
+
+.jumbotron img {
+    float:left;
+    padding-left: 1em;
+    padding-bottom: 1em;
+    
+}
