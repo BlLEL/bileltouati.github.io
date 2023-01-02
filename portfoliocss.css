@@ -7,8 +7,21 @@ Click nbfs://nbhost/SystemFileSystem/Templates/ClientSide/css.css to edit this t
     Author     : bilel.touati
 */
 
+bg-dark {
+    background-color: brown;
+}
+
+btn-primary {
+    color:brown;
+}
+
+h1 {
+    color : #a10e0e ;
+}
+
+
 img {
-    float : left;
+    float:left;
 }
 
 
@@ -20,11 +33,18 @@ img {
 .jumbotron p {
     max-width: 100em;
     padding-left: 10.5em;
+    margin-top: 84px;
+    color: brown;
 }
 
 .jumbotron img {
     float:left;
-    padding-left: 1em;
-    padding-bottom: 1em;
+    padding-left: 0.5em;
+    padding-bottom: 0.5em;
     
 }
+
+.jumbotron img {
+    background-color : #a10e0e;
+}
+
