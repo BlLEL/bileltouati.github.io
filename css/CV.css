@@ -94,3 +94,16 @@ body { padding-top: 50px; }
 #competences .container .classement3 { background-position: 0 -56px; }
 #competences .container .classement4 { background-position: 0 -28px; }
 #competences .container .classement5 { background-position: 0 0px; }
+
+#langages .container {
+ display: flex; flex-direction: row; justify-content: space-between; }
+#langages .container .libelle { font-size: 1.3em; }
+#langages .container .classement {
+ background: scroll transparent url(images/Red-Rating-Stars.png) no-repeat;
+ width: 160px; height: 27px; }
+#langages .container .classement0 { background-position: 0 -142px; }
+#langages .container .classement1 { background-position: 0 -112px; }
+#langages .container .classement2 { background-position: 0 -84px; }
+#langages .container .classement3 { background-position: 0 -56px; }
+#langages .container .classement4 { background-position: 0 -28px; }
+#langages .container .classement5 { background-position: 0 0px; }
